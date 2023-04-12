@@ -1,5 +1,10 @@
 {
     "name": "2077",
+    "description": "A colorful cyberpunk inspired theme",
+    "authors": [
+        {
+            "name": "Lucky Jinx",
+        }
     "semanticColors": {
         "KEYBOARD": [
             "#000000",
@@ -115,20 +120,20 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#000000",   
-        "PRIMARY_500": "#b03cae",
+        "PRIMARY": "#020202",   
         "PRIMARY_100": "#b1e7f0",
         "PRIMARY_200": "#f016f7",
         "PRIMARY_300": "#f016f7",
         "PRIMARY_360": "#4e6d82",
         "PRIMARY_400": "#12c4e3",
+        "PRIMARY_500": "#b03cae",
         "PRIMARY_600": "#020202",
-        "PRIMARY_660": "#000000",
         "PRIMARY_630": "#1d2828",
+        "PRIMARY_660": "#020202",
         "PRIMARY_700": "#1d2828",
-        "PRIMARY_800": "#000000",
+        "PRIMARY_800": "#020202",
         "PRIMARY_900": "#f716f7",
-        "BRAND_500": "#bb68d9",
+        "BRAND_500": "#020202",
         "WHITE_500": "#3ad3e0"
     },
     "spec": 2
