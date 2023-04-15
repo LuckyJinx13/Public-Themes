@@ -45,7 +45,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1d2822"
+            "#1B0122"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#000000"
@@ -107,11 +107,11 @@
         "BRAND_260": "#f016f7",
         "BRAND_360": "#f016f7",
         "BRAND_500": "#f016f7",
-        "BRAND_560": "#F0C4FF",
+        "BRAND_560": "#3ad3e0",
         "WHITE_500": "#3ad3e0",
         "YELLOW_300": "#b03cae",
         "GREEN_360": "#b03cae",
-        "RED_400": "#FC0E61"
+        "RED_400": "#72c1cf"
     },
     "spec": 2
 }
