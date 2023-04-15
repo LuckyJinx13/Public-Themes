@@ -1,6 +1,12 @@
 {
     "name": "2077",
     "description": "Colorful CyberPunk Inspired Theme",
+        "authors": [
+        {
+            "name": "Lucky Jinx",
+            "id": "715175781227298876"
+        }
+    ],
     "semanticColors": {
         "KEYBOARD": [
             "#000000"
@@ -102,7 +108,6 @@
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "PRIMARY_900": "#f716f7",
       
         "BRAND_260": "#f016f7",
         "BRAND_360": "#f016f7",
