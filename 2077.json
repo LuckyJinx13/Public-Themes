@@ -13,6 +13,9 @@
     ],
     "CHANNELS_DEFAULT": [
       "#17e8e5"
+     ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#c72ec9"
     ],
     "HEADER_PRIMARY": [
       "#c72ec9"
@@ -48,7 +51,7 @@
       "#3ad3e0"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000"
+      "#0ca5f7"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#1B0122"
