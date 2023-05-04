@@ -78,25 +78,25 @@
       "#000000"
     ],
     "BACKGROUND_MENTIONED": [
-      "#bb68d9"
+      "#B965A3"
     ],
     "TEXT_NORMAL": [
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#4ea2b5"
+      "#A370F2"
     ],
     "TEXT_LINK": [
       "#de4cf5"
     ],
     "TEXT_DANGER": [
-      "#FC0E61"
+      "#FCA5FD"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
     ],
     "CHANNEL_ICON": [
-      "#f016f7"
+      "#9744ED"
     ],
     "SPOILER_HIDDEN_ BACKGROUND": [
       "#f016f7"
@@ -124,7 +124,7 @@
     "WHITE_500": "#3ad3e0",
     "YELLOW_300": "#b03cae",
     "GREEN_360": "#b03cae",
-    "RED_400": "#FC0E61"
+    "RED_400": "#FCA5FD"
   },
   "spec": 2
 }
