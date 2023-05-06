@@ -36,7 +36,7 @@
       "#1b0122"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#000000"
+      "#12051a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#000000"
@@ -63,7 +63,7 @@
       "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#3c1053"
+      "#12051a"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#000000"
@@ -114,7 +114,7 @@
       "#300350"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "1a1926"
+      "#1a1926"
     ]
   },
   "rawColors": {
