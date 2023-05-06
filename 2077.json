@@ -103,8 +103,20 @@
     ],
     "SPOILER_REVEALED_BACKGROUND": [
       "#682d68"
-    ]
-  },
+    ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#300350"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#300350"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "1a1926"
+        ]
+    },
   "rawColors": {
     "PRIMARY_100": "#b1e7f0",
     "PRIMARY_200": "#f016f7",
@@ -121,8 +133,6 @@
     "BRAND_360": "#a370f2",
     "BRAND_500": "#f016f7",
     "BRAND_560": "#3ad3e0",
-    "BRAND_900": "#4d4463",
-    "BRAND_NEW": "#a297c3",
     "WHITE_500": "#3ad3e0",
     "YELLOW_300": "#b03cae",
     "GREEN_360": "#b03cae",
