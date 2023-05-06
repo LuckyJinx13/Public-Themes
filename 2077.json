@@ -45,7 +45,7 @@
       "#000000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#1b0122"
+      "#3ad3e0"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#3ad3e0"
@@ -126,7 +126,7 @@
     "PRIMARY_400": "#12c4e3",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
-    "PRIMARY_660": "#f016f7",
+    "PRIMARY_660": "#000000",
     "PRIMARY_700": "#890c58",
     "PRIMARY_800": "#000000",
     "BRAND_260": "#f016f7",
