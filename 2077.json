@@ -90,7 +90,7 @@
       "#80e1e9"
     ],
     "TEXT_DANGER": [
-      "#FCA5FD"
+      "#890c58"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
@@ -136,7 +136,7 @@
     "WHITE_500": "#3ad3e0",
     "YELLOW_300": "#b03cae",
     "GREEN_360": "#b03cae",
-    "RED_400": "#FCA5FD"
+    "RED_400": "#890c58"
   },
   "spec": 2
 }
