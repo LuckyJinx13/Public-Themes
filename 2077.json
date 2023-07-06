@@ -115,7 +115,11 @@
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#1a1926"
-    ]
+    ],
+    "REDESIGN_ACTIVITY_ CARD_BACKGROUND:":
+      "#383a40",
+    "REDESIGN BUTTON SECONDARY ALT PRESSED BACKGROUND:":
+      "#383а40"
   },
   "rawColors": {
     "PRIMARY_100": "#b1e7f0",
