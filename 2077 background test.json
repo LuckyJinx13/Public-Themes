@@ -151,6 +151,13 @@
     "GREEN_345": "#682d68",
     "BLUE_345": "#c40cf7"
   },
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#c434b7",
+        "mentionLineColor": "#00b1dd",
+        "ic_new_pins": "#de59f2",
+        "customOverlays": true
+    },
  "spec": 2,
 "background": {
         "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
