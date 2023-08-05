@@ -9,7 +9,7 @@
   ],
   "semanticColors": {
     "KEYBOARD": [
-      "#000000"
+      "#210830"
     ],
     "CHANNELS_DEFAULT": [
       "#17e8e5"
@@ -39,10 +39,10 @@
       "#12051a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "#210830"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000"
+      "#210830"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#e10098"
@@ -57,7 +57,7 @@
       "#1B0122"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#000000"
+      "#210830"
     ],
     "BACKGROUND_PRIMARY": [
       "#210830"
@@ -66,16 +66,16 @@
       "#12051a"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000"
+      "#210830"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000"
+      "#210830"
     ],
     "BACKGROUND_ACCENT": [
       "#682d68"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000"
+      "#210830"
     ],
     "BACKGROUND_MENTIONED": [
       "#890c58"
@@ -93,13 +93,13 @@
       "#890c58"
     ],
     "CHAT_BACKGROUND": [
-      "#000000"
+      "#210830"
     ],
     "CHANNEL_ICON": [
       "#9744ED"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-            "#f784fb"
+      "#f784fb"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
       "#682d68"
