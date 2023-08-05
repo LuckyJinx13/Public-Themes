@@ -9,7 +9,7 @@
   ],
   "semanticColors": {
     "KEYBOARD": [
-      "#210830"
+      "#1b0329"
     ],
     "CHANNELS_DEFAULT": [
       "#17e8e5"
@@ -39,10 +39,10 @@
       "#12051a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#e10098"
@@ -57,25 +57,25 @@
       "#1B0122"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_PRIMARY": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_SECONDARY": [
       "#12051a"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_TERTIARY": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_ACCENT": [
       "#682d68"
     ],
     "BACKGROUND_FLOATING": [
-      "#210830"
+      "#1b0329"
     ],
     "BACKGROUND_MENTIONED": [
       "#890c58"
@@ -93,7 +93,7 @@
       "#890c58"
     ],
     "CHAT_BACKGROUND": [
-      "#210830"
+      "#1b0329"
     ],
     "CHANNEL_ICON": [
       "#9744ED"
@@ -120,7 +120,7 @@
       "#1B0122"
     ],
      "REDESIGN_ACTIVITY_CARD_BORDER": [
-      "#f016f7"
+      "#fe0096"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
       "#b1e7f0"
@@ -133,11 +133,11 @@
     "PRIMARY_360": "#3ad3e0",
     "PRIMARY_500": "#b03cae",
     "PRIMARY_400": "#12c4e3",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#000000",
-    "PRIMARY_660": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
+    "PRIMARY_600": "#1b0329",
+    "PRIMARY_630": "#1b0329",
+    "PRIMARY_660": "#1b0329",
+    "PRIMARY_700": "#1b0329",
+    "PRIMARY_800": "#1b0329",
     "BRAND_260": "#f016f7",
     "BRAND_360": "#a370f2",
     "BRAND_500": "#f016f7",
@@ -155,6 +155,6 @@
 "background": {
         "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
         "alpha": 0.3,
-        "color": "#081924"
+        "color": "#1b0329"
     }
 }
