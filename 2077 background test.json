@@ -156,6 +156,13 @@
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "ic_new_pins": "#de59f2",
+        "ic_new_pins_light": "#de59f2",
+        "ic_check": "#c434b7",
+        "ic_radio_square_checked_24px": "#0092df",
+        "ic_selection_checked_24px": "#0092df",
+        "ic_radio_circle_checked": "#0092df",
+        "ic_radio_circle_checked_green": "#710155",
+        "app_installed_check": "#f4befa",
         "customOverlays": true
     },
  "spec": 2,
