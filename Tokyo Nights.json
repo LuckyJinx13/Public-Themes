@@ -178,11 +178,11 @@
           "ic_radio_circle_checked_green": "RC_GREEN_360",
           "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
           "StatusStreaming": "#7e64fb",
-          "StatusMobileOnline": "#de59f2",
+          "StatusMobileOnline": "#fe0096",
           "StatusIdle": "#ffd401",
           "StatusDND": "#ff611a",
           "StatusOffline": "#04248b",
-          "StatusOnline": "#de59f2" 
+          "StatusOnline": "#fe0096" 
         },
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
