@@ -1,6 +1,6 @@
 {
-  "name": "2077",
-  "description": "Colorful CyberPunk/Vaporwave Inspired Theme",
+  "name": "Tokyo Nights",
+  "description": "Colorful Vaporwave Inspired Theme",
   "authors": [
     {
       "name": "Lucky Jinx",
@@ -159,6 +159,7 @@
   },
     "plus": {
         "version": 0,
+        "iconPack": "rosiecord-plumpy",
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "icons": {
