@@ -159,7 +159,6 @@
   },
     "plus": {
         "version": 0,
-        "iconPack": "rosiecord-iconsax",
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "icons": {
@@ -183,6 +182,8 @@
     "StatusOnline": "RC_GREEN_360" 
         },
   "customOverlays": true
+},
+  "iconPack": "rosiecord-plumpy"
 },
  "spec": 2,
 "background": {
