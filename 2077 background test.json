@@ -159,6 +159,8 @@
   },
     "plus": {
         "version": 0,
+        "customOverlays": true,
+        "iconPack": "rosiecord-plumpy",
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "icons": {
@@ -180,11 +182,7 @@
     "StatusDND": ["#e68ac1", "#e68ac1", "#e68ac1", "#e68ac1"],
     "StatusOffline": "#19103b",
     "StatusOnline": "RC_GREEN_360"
-     },  
-        "customOverlays": true
     },  
-        "iconPack": "rosiecord-plumpy"
-    },
  "spec": 2,
 "background": {
         "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
