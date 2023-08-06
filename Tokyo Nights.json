@@ -155,7 +155,7 @@
     "BLUE_345": "#c40cf7",
     "RC_BRAND_500": "#9c1067",
     "RC_WHITE_500": "#00b1dd",
-    "RC_GREEN_360": "#c434b7",
+    "RC_GREEN_360": "#de59f2",
     "RC_PRIMARY_600": "#1ccfed",
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
@@ -181,7 +181,7 @@
           "StatusMobileOnline": "RC_GREEN_360",
           "StatusIdle": "RC_YELLOW_300",
           "StatusDND": ["#e68ac1", "#e68ac1", "#e68ac1", "#e68ac1"],
-          "StatusOffline": "#19103b",
+          "StatusOffline": "#04248b",
           "StatusOnline": "RC_GREEN_360" 
         },
   "customOverlays": true,
