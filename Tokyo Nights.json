@@ -180,7 +180,7 @@
           "StatusStreaming": "#7e64fb",
           "StatusMobileOnline": "#de59f2",
           "StatusIdle": "#ffd401",
-          "StatusDND": "#e68ac1",
+          "StatusDND": "#ff611a",
           "StatusOffline": "#04248b",
           "StatusOnline": "#de59f2" 
         },
