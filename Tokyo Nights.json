@@ -181,7 +181,7 @@
           "StatusMobileOnline": "#fe0096",
           "StatusIdle": "#ffd401",
           "StatusDND": "#ff611a",
-          "StatusOffline": "#04248b",
+          "StatusOffline": "#015bd5",
           "StatusOnline": "#fe0096" 
         },
   "customOverlays": true,
