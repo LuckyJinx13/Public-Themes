@@ -177,12 +177,12 @@
           "app_installed_check__overlay": "RC_PRIMARY_600",
           "ic_radio_circle_checked_green": "RC_GREEN_360",
           "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
-          "StatusStreaming": "RC_TEAL_345",
-          "StatusMobileOnline": "RC_GREEN_360",
-          "StatusIdle": "RC_YELLOW_300",
-          "StatusDND": ["#e68ac1", "#e68ac1", "#e68ac1", "#e68ac1"],
+          "StatusStreaming": "#7e64fb",
+          "StatusMobileOnline": "#de59f2",
+          "StatusIdle": "#ffd401",
+          "StatusDND": "#e68ac1",
           "StatusOffline": "#04248b",
-          "StatusOnline": "RC_GREEN_360" 
+          "StatusOnline": "#de59f2" 
         },
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
