@@ -157,31 +157,32 @@
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
   },
-    "plus": {
+       "plus": {
         "version": 0,
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "icons": {
-    "ic_radio_square_checked_24px": "RC_BRAND_500",
-    "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
-    "ic_selection_checked_24px": "RC_BRAND_500",
-    "ic_selection_checked_24px__overlay": "RC_WHITE_500",
-    "ic_check": "RC_BRAND_500",
-    "ic_check__overlay": "RC_WHITE_500",
-    "ic_radio_circle_checked": "RC_BRAND_500",
-    "ic_radio_circle_checked__overlay": "RC_WHITE_500",
-    "app_installed_check": "RC_GREEN_360",
-    "app_installed_check__overlay": "RC_PRIMARY_600",
-    "ic_radio_circle_checked_green": "RC_GREEN_360",
-    "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
-    "StatusStreaming": "RC_TEAL_345",
-    "StatusMobileOnline": "RC_GREEN_360",
-    "StatusIdle": "RC_YELLOW_300",
-    "StatusDND": ["#e68ac1", "#e68ac1", "#e68ac1", "#e68ac1"],
-    "StatusOffline": "#19103b",
-    "StatusOnline": "RC_GREEN_360" 
+          "ic_radio_square_checked_24px": "RC_BRAND_500",
+          "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
+          "ic_selection_checked_24px": "RC_BRAND_500",
+          "ic_selection_checked_24px__overlay": "RC_WHITE_500",
+          "ic_check": "RC_BRAND_500",
+          "ic_check__overlay": "RC_WHITE_500",
+          "ic_radio_circle_checked": "RC_BRAND_500",
+          "ic_radio_circle_checked__overlay": "RC_WHITE_500",
+          "app_installed_check": "RC_GREEN_360",
+          "app_installed_check__overlay": "RC_PRIMARY_600",
+          "ic_radio_circle_checked_green": "RC_GREEN_360",
+          "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
+          "StatusStreaming": "RC_TEAL_345",
+          "StatusMobileOnline": "RC_GREEN_360",
+          "StatusIdle": "RC_YELLOW_300",
+          "StatusDND": ["#e68ac1", "#e68ac1", "#e68ac1", "#e68ac1"],
+          "StatusOffline": "#19103b",
+          "StatusOnline": "RC_GREEN_360" 
         },
-  "customOverlays": true
+  "customOverlays": true,
+  "iconpack":"rosiecord-plumpy"
 },
  "spec": 2,
 "background": {
