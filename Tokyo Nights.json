@@ -162,6 +162,7 @@
   },
        "plus": {
         "version": 0,
+         "ic_new_pins": "#fe22c4",
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "icons": {
