@@ -183,7 +183,8 @@
           "StatusDND": "#ff611a",
           "StatusOffline": "#015bd5",
           "StatusOnline": "#fe0096",
-          "ic_new_pins": "#fe22c4"
+          "ic_new_pins": "#fe22c4",
+          "ic_new_pins_light": "#fe22c4"
         },
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
