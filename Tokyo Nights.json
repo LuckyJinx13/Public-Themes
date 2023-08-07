@@ -162,7 +162,7 @@
   },
        "plus": {
         "version": 0,
-        "unreadBadgeColor": "#c434b7",
+        "unreadBadgeColor": "#de59f2",
         "mentionLineColor": "#00b1dd",
         "icons": {
           "ic_radio_square_checked_24px": "RC_BRAND_500",
