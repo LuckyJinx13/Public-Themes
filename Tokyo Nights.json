@@ -63,7 +63,7 @@
       "#1b0329"
     ],
     "BACKGROUND_SECONDARY": [
-      "#12051a"
+      "#1b0329d9"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#1b0329"
@@ -136,7 +136,7 @@
     "PRIMARY_360": "#3ad3e0",
     "PRIMARY_500": "#b03cae",
     "PRIMARY_400": "#791E94",
-    "PRIMARY_600": "#1b0329d9",
+    "PRIMARY_600": "#1b0329",
     "PRIMARY_630": "#1b0329",
     "PRIMARY_660": "#1b0329",
     "PRIMARY_700": "#920075",
