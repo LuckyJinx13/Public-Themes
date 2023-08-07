@@ -162,7 +162,6 @@
   },
        "plus": {
         "version": 0,
-         "ic_new_pins": "#fe22c4",
         "unreadBadgeColor": "#c434b7",
         "mentionLineColor": "#00b1dd",
         "icons": {
@@ -183,7 +182,8 @@
           "StatusIdle": "#ffd401",
           "StatusDND": "#ff611a",
           "StatusOffline": "#015bd5",
-          "StatusOnline": "#fe0096" 
+          "StatusOnline": "#fe0096",
+          "ic_new_pins": "#fe22c4"
         },
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
