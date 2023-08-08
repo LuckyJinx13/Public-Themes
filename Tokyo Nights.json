@@ -186,7 +186,9 @@
           "ic_new_pins": "#fe22c4",
           "ic_new_pins_light": "#fe22c4",
           "ic_notification_settings": "#f6019e",
-          "ic_notification_settings_light": "#f6019e"
+          "ic_notification_settings_light": "#f6019e",
+          "boost": "#F706CF",
+          "ic_settings_boost_24px": "#F706CF"
         },
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
