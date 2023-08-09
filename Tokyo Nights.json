@@ -117,13 +117,19 @@
       "#c72ec9"
     ],
   "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#1B0122"
+      "#330240"
     ],
   "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [
       "#00b1dd"
     ],
+    "ACTIVITY_CARD_BACKGROUND": [
+      "#330240"
+    ],
      "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#fe0096"
+    ],
+     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+       "#fe22c4"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
       "#b1e7f0"
