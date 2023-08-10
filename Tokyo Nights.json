@@ -15,10 +15,10 @@
       "#17e8e5"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#c72ec9"
+      "#9c1067"
     ],
     "HEADER_PRIMARY": [
-      "#c72ec9"
+      "#9c1067"
     ],
     "HEADER_SECONDARY": [
       "#a370f2"
@@ -45,7 +45,7 @@
       "#330240"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#e10098"
+      "#9c1067"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#3ad3e0"
@@ -108,7 +108,7 @@
       "#c72ec9"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#e10098"
+      "#9c1067"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#c72ec9"
@@ -116,20 +116,20 @@
     "SCROLLBAR_AUTO_TRACK": [
       "#c72ec9"
     ],
-  "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#330240"
     ],
-  "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [
+    "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [
       "#8e1cad"
     ],
     "ACTIVITY_CARD_BACKGROUND": [
       "#330240"
     ],
-     "REDESIGN_ACTIVITY_CARD_BORDER": [
+    "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#fe0096"
     ],
-     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-       "#fe22c4"
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#9c1067"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
       "#b1e7f0"
@@ -166,44 +166,44 @@
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
   },
-       "plus": {
-        "version": 0,
-        "unreadBadgeColor": "#de59f2",
-        "mentionLineColor": "#00b1dd",
-        "icons": {
-          "ic_radio_square_checked_24px": "RC_BRAND_500",
-          "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
-          "ic_selection_checked_24px": "RC_BRAND_500",
-          "ic_selection_checked_24px__overlay": "RC_WHITE_500",
-          "ic_check": "RC_BRAND_500",
-          "ic_check__overlay": "RC_WHITE_500",
-          "ic_radio_circle_checked": "RC_BRAND_500",
-          "ic_radio_circle_checked__overlay": "RC_WHITE_500",
-          "app_installed_check": "RC_GREEN_360",
-          "app_installed_check__overlay": "RC_PRIMARY_600",
-          "ic_radio_circle_checked_green": "RC_GREEN_360",
-          "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
-          "StatusStreaming": "#7e64fb",
-          "StatusMobileOnline": "#fe0096",
-          "StatusIdle": "#ffd401",
-          "StatusDND": "#ff611a",
-          "StatusOffline": "#015bd5",
-          "StatusOnline": "#fe0096",
-          "ic_new_pins": "#fe22c4",
-          "ic_new_pins_light": "#fe22c4",
-          "ic_notification_settings": "#f6019e",
-          "ic_notification_settings_light": "#f6019e",
-          "boost": "#F706CF",
-          "ic_settings_boost_24px": "#F706CF",
-          "member_list_badge_16px": "#F706CF"
-        },
-  "customOverlays": true,
-  "iconpack":"rosiecord-plumpy"
-},
- "spec": 2,
-"background": {
-        "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
-        "alpha": 0.3,
-        "color": "#1b0329"
-}
+  "plus": {
+    "version": 0,
+    "unreadBadgeColor": "#de59f2",
+    "mentionLineColor": "#00b1dd",
+    "icons": {
+      "ic_radio_square_checked_24px": "RC_BRAND_500",
+      "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
+      "ic_selection_checked_24px": "RC_BRAND_500",
+      "ic_selection_checked_24px__overlay": "RC_WHITE_500",
+      "ic_check": "RC_BRAND_500",
+      "ic_check__overlay": "RC_WHITE_500",
+      "ic_radio_circle_checked": "RC_BRAND_500",
+      "ic_radio_circle_checked__overlay": "RC_WHITE_500",
+      "app_installed_check": "RC_GREEN_360",
+      "app_installed_check__overlay": "RC_PRIMARY_600",
+      "ic_radio_circle_checked_green": "RC_GREEN_360",
+      "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
+      "StatusStreaming": "#7e64fb",
+      "StatusMobileOnline": "#fe0096",
+      "StatusIdle": "#ffd401",
+      "StatusDND": "#ff611a",
+      "StatusOffline": "#015bd5",
+      "StatusOnline": "#fe0096",
+      "ic_new_pins": "#fe22c4",
+      "ic_new_pins_light": "#fe22c4",
+      "ic_notification_settings": "#f6019e",
+      "ic_notification_settings_light": "#f6019e",
+      "boost": "#F706CF",
+      "ic_settings_boost_24px": "#F706CF",
+      "member_list_badge_16px": "#F706CF"
+    },
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
+    "alpha": 0.3,
+    "color": "#1b0329"
+  }
 }
