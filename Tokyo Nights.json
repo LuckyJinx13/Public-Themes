@@ -1,220 +1,32 @@
-{
-  "name": "Tokyo Nights",
-  "description": "Colorful Vaporwave Inspired Theme",
-  "authors": [
-    {
-      "name": "Lucky Jinx",
-      "id": "715175781227298876"
-    }
-  ],
-  "semanticColors": {
-    "KEYBOARD": [
-      "#1b0329"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#17e8e5"
-    ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#9c1067"
-    ],
-    "HEADER_PRIMARY": [
-      "#9c1067"
-    ],
-    "HEADER_SECONDARY": [
-      "#a370f2"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#c40cf7"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#4ea2b5"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#0ca5f7"
-    ],
-    "BACKGROUND_MENTIONED_HOVER": [
-      "#1b0122"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#12051a"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#1b0122"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#330240"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#9c1067"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#3ad3e0"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#0ca5f7"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#1B0122"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#1b0329"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#1b0122"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#330240"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#1b0122"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#1B0122"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#710155"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#1B0122"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "#890c58b3"
-    ],
-    "TEXT_NORMAL": [
-      "#ffffff"
-    ],
-    "TEXT_MUTED": [
-      "#05ffcf"
-    ],
-    "TEXT_LINK": [
-      "#80e1e9"
-    ],
-    "TEXT_DANGER": [
-      "#890c58"
-    ],
-    "CHAT_BACKGROUND": [
-      "#1b0329"
-    ],
-    "CHANNEL_ICON": [
-      "#9744ED"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#f784fb"
-    ],
-    "SPOILER_REVEALED_BACKGROUND": [
-      "#682d68"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#c72ec9"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "#9c1067"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#c72ec9"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#c72ec9"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#330240"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [
-      "#8e1cad"
-    ],
-    "ACTIVITY_CARD_BACKGROUND": [
-      "#330240"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BORDER": [
-      "#fe0096"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#9c1067"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-      "#b1e7f0"
-    ]
-  },
-  "rawColors": {
-    "PRIMARY_100": "#00b1dd",
-    "PRIMARY_200": "#f016f7",
-    "PRIMARY_300": "#573094",
-    "PRIMARY_360": "#00b1dd",
-    "PRIMARY_500": "#b03cae",
-    "PRIMARY_400": "#791E94",
-    "PRIMARY_600": "#1b0329",
-    "PRIMARY_630": "#1b0329",
-    "PRIMARY_660": "#1b0329",
-    "PRIMARY_700": "#1b0329",
-    "PRIMARY_800": "#330240",
-    "BRAND_260": "#f016f7",
-    "BRAND_360": "#a370f2",
-    "BRAND_500": "#f016f7",
-    "BRAND_560": "#3ad3e0",
-    "WHITE_500": "#3ad3e0",
-    "YELLOW_300": "#b03cae",
-    "GREEN_360": "#b03cae",
-    "RED_400": "#890c58",
-    "ORANGE_345": "#890c58",
-    "RED_560": "#a370f2",
-    "GREEN_345": "#682d68",
-    "BLUE_345": "#c40cf7",
-    "RC_BRAND_500": "#9c1067",
-    "RC_WHITE_500": "#00b1dd",
-    "RC_GREEN_360": "#de59f2",
-    "RC_PRIMARY_600": "#1ccfed",
-    "RC_TEAL_345": "#7e64fb",
-    "RC_YELLOW_300": "#ffd401"
-  },
-  "plus": {
-    "version": 0,
-    "unreadBadgeColor": "#de59f2",
-    "mentionLineColor": "#00b1dd",
-    "icons": {
-      "ic_radio_square_checked_24px": "RC_BRAND_500",
-      "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
-      "ic_selection_checked_24px": "RC_BRAND_500",
-      "ic_selection_checked_24px__overlay": "RC_WHITE_500",
-      "ic_check": "RC_BRAND_500",
-      "ic_check__overlay": "RC_WHITE_500",
-      "ic_radio_circle_checked": "RC_BRAND_500",
-      "ic_radio_circle_checked__overlay": "RC_WHITE_500",
-      "app_installed_check": "RC_GREEN_360",
-      "app_installed_check__overlay": "RC_PRIMARY_600",
-      "ic_radio_circle_checked_green": "RC_GREEN_360",
-      "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
-      "StatusStreaming": "#7e64fb",
-      "StatusMobileOnline": "#fe0096",
-      "StatusIdle": "#ffd401",
-      "StatusDND": "#ff611a",
-      "StatusOffline": "#015bd5",
-      "StatusOnline": "#fe0096",
-      "ic_new_pins": "#fe22c4",
-      "ic_new_pins_light": "#fe22c4",
-      "ic_notification_settings": "#f6019e",
-      "ic_notification_settings_light": "#f6019e",
-      "boost": "#F706CF",
-      "ic_settings_boost_24px": "#F706CF",
-      "member_list_badge_16px": "#F706CF",
-      "ic_rich_presence_dark_12px": "#0ca5f7",
-      "ic_close_circle": "RC_BRAND_500",
-      "ic_cell_remove": "RC_BRAND_500",
-      "ic_audit_delete_24px": "RC_BRAND_500",
-      "ic_mic_neutral": "#a370f2",
-      "ic_mic_muted_neutral": "#a370f2",
-      "ic_soundboard": "#a370f2",
-      "ic_soundboard_muted": "#a370f2",
-      "ic_video": "#a370f2",
-      "ic_video_disabled": "#a370f2"
-    },
-    "customOverlays": true,
-    "iconpack": "rosiecord-plumpy"
-  },
-  "spec": 2,
-  "background": {
-    "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
-    "alpha": 0.3,
-  }
+         "StatusIdle":"#ffd401",
+         "StatusDND":"#ff611a",
+         "StatusOffline":"#015bd5",
+         "StatusOnline":"#fe0096",
+         "ic_new_pins":"#fe22c4",
+         "ic_new_pins_light":"#fe22c4",
+         "ic_notification_settings":"#f6019e",
+         "ic_notification_settings_light":"#f6019e",
+         "boost":"#F706CF",
+         "ic_settings_boost_24px":"#F706CF",
+         "member_list_badge_16px":"#F706CF",
+         "ic_rich_presence_dark_12px":"#0ca5f7",
+         "ic_close_circle":"RC_BRAND_500",
+         "ic_cell_remove":"RC_BRAND_500",
+         "ic_audit_delete_24px":"RC_BRAND_500",
+         "ic_mic_neutral":"#a370f2",
+         "ic_mic_muted_neutral":"#a370f2",
+         "ic_soundboard":"#a370f2",
+         "ic_soundboard_muted":"#a370f2",
+         "ic_video":"#a370f2",
+         "ic_video_disabled":"#a370f2"
+      },
+      "customOverlays":true,
+      "iconpack":"rosiecord-plumpy"
+   },
+   "spec":2,
+   "background":{
+      "blur":0,
+      "url":"https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
+      "alpha":0.3
+   }
 }
-  
