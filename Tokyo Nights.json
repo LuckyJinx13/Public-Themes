@@ -166,6 +166,11 @@
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
   },
+    "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
+    "alpha": 0.3
+  },
   "plus": {
     "version": 0,
     "iconpack": "rosiecord-plumpy"
@@ -206,10 +211,6 @@
       "ic_video": "#a370f2",
       "ic_video_disabled": "#a370f2"
   },
-  "spec": 2,
-  "background": {
-    "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
-    "alpha": 0.3
+  "spec": 2
   }
 }
