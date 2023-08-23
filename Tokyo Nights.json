@@ -168,8 +168,7 @@
   },
   "plus": {
     "version": 0,
-    "unreadBadgeColor": "#de59f2",
-    "mentionLineColor": "#00b1dd",
+    "iconpack": "rosiecord-plumpy
     "icons": {
       "ic_radio_square_checked_24px": "RC_BRAND_500",
       "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
@@ -206,9 +205,6 @@
       "ic_soundboard_muted": "#a370f2",
       "ic_video": "#a370f2",
       "ic_video_disabled": "#a370f2"
-    },
-    "customOverlays": true,
-    "iconpack": "rosiecord-plumpy"
   },
   "spec": 2,
   "background": {
