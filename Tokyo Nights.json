@@ -114,7 +114,7 @@
       "#c72ec9"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#c72ec9"
+      "#8e1cad"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#330240"
@@ -137,7 +137,7 @@
   },
   "rawColors": {
     "PRIMARY_100": "#00b1dd",
-    "PRIMARY_200": "#b03cae",
+    "PRIMARY_200": "#f016f7",
     "PRIMARY_300": "#573094",
     "PRIMARY_360": "#00b1dd",
     "PRIMARY_500": "#b03cae",
