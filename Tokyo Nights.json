@@ -1,6 +1,6 @@
 {
-  "name": "Bubble Pop",
-  "description": "A Cute Blue & Pink Theme",
+  "name": "Tokyo Nights",
+  "description": "Colorful Vaporwave Inspired Theme",
   "authors": [
     {
       "name": "Lucky Jinx",
@@ -9,10 +9,10 @@
   ],
   "semanticColors": {
     "KEYBOARD": [
-      "#34aed6"
+      "#1b0329"
     ],
     "CHANNELS_DEFAULT": [
-      "#eca2d2"
+      "#17e8e5"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#9c1067"
@@ -33,16 +33,16 @@
       "#0ca5f7"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#6d43c9"
+      "#1b0122"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#103d3f"
+      "#12051a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#6d43c9"
+      "#1b0122"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#d54b8e"
+      "#330240"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#9c1067"
@@ -54,28 +54,28 @@
       "#0ca5f7"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#6d43c9"
+      "#1B0122"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#34aed6"
+      "#1b0329"
     ],
     "BACKGROUND_PRIMARY": [
-      "#6d43c9"
+      "#1b0122"
     ],
     "BACKGROUND_SECONDARY": [
-      "#d54b8e"
+      "#330240"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#6d43c9"
+      "#1b0122"
     ],
     "BACKGROUND_TERTIARY": [
-      "#34aed6"
+      "#1B0122"
     ],
     "BACKGROUND_ACCENT": [
-      "#fa317c"
+      "#710155"
     ],
     "BACKGROUND_FLOATING": [
-      "#6d43c9"
+      "#1B0122"
     ],
     "BACKGROUND_MENTIONED": [
       "#890c58b3"
@@ -84,7 +84,7 @@
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#e88da1"
+      "#05ffcf"
     ],
     "TEXT_LINK": [
       "#80e1e9"
@@ -93,7 +93,7 @@
       "#890c58"
     ],
     "CHAT_BACKGROUND": [
-      "#34aed6"
+      "#1b0329"
     ],
     "CHANNEL_ICON": [
       "#9744ED"
@@ -117,13 +117,13 @@
       "#c72ec9"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#d54b8e"
+      "#330240"
     ],
     "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [
       "#8e1cad"
     ],
     "ACTIVITY_CARD_BACKGROUND": [
-      "#d54b8e"
+      "#330240"
     ],
     "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#fe0096"
@@ -142,11 +142,11 @@
     "PRIMARY_360": "#00b1dd",
     "PRIMARY_500": "#b03cae",
     "PRIMARY_400": "#791E94",
-    "PRIMARY_600": "#34aed6",
-    "PRIMARY_630": "#34aed6",
-    "PRIMARY_660": "#34aed6",
-    "PRIMARY_700": "#34aed6",
-    "PRIMARY_800": "#d54b8e",
+    "PRIMARY_600": "#1b0329",
+    "PRIMARY_630": "#1b0329",
+    "PRIMARY_660": "#1b0329",
+    "PRIMARY_700": "#1b0329",
+    "PRIMARY_800": "#330240",
     "BRAND_260": "#f016f7",
     "BRAND_360": "#a370f2",
     "BRAND_500": "#f016f7",
@@ -165,7 +165,7 @@
     "RC_PRIMARY_600": "#1ccfed",
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
-  },
+   },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg"
     },
