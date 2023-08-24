@@ -166,8 +166,9 @@
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
   },
-    "background": {
-    "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg"
+    "BG_BACKDROP": {
+    "url": "https://cdn.discordapp.com/attachments/1131055142314180641/1137247910082388049/TdoFyZX.jpg",
+    "color": "#1b0329"
   },
   "plus": {
     "version": 0,
