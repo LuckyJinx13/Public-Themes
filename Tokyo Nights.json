@@ -116,6 +116,12 @@
     "SCROLLBAR_AUTO_TRACK": [
       "#8e1cad"
     ],
+    "HEADER_PRIMARY": [
+      "#9923ba"
+    ],
+    "HEADER_SECONDARY": [
+      "#9e3484"
+    ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#330240"
     ],
@@ -137,14 +143,10 @@
   },
   "rawColors": {
     "PRIMARY_100": "#00b1dd",
-    "PRIMARY_130": "#0447cc",
-    "PRIMARY_160": "#e8151f",
     "PRIMARY_200": "#f016f7",
     "PRIMARY_230": "#de59f2",
     "PRIMARY_260": "#81f7b0",
     "PRIMARY_300": "#573094",
-    "PRIMARY_330": "#b5bac1",
-    "PRIMARY_345": "#19e32d",
     "PRIMARY_360": "#00b1dd",
     "PRIMARY_400": "#791E94",
     "PRIMARY_500": "#b03cae",
