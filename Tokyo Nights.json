@@ -36,7 +36,7 @@
       "#710155"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#0ca5f77a"
+      "#0ca5f7"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#9c106726"
@@ -45,7 +45,7 @@
       "#1B012226"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#3ad3e099"
+      "#9c106799"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#12051a"
@@ -69,7 +69,7 @@
       "#17e8e5"
     ],
     "CHANNEL_ICON": [
-      "#9744ED4d"
+      "#9744ed"
     ],
     "CHAT_BACKGROUND": [
       "#00000099"
