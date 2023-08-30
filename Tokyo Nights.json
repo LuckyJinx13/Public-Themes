@@ -131,8 +131,62 @@
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
       "#9c1067"
     ],
+    "REDESIGN_ACTIVITY_CARD_OVERFLOW_BACKGROUND": [
+      "#330240"
+    ],
     "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
       "#b1e7f0"
+    ],
+    "DEPRECATED_CARD_BG": [
+      "#1b0122"
+    ],
+    "DEPRECATED_CARD_EDITABLE_BG": [
+      "#1b0122"
+    ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+      "#1b0122"
+    ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+      "#1b0122"
+    ],
+    "DEPRECATED_STORE_BG": [
+      "#dcddde"
+    ],
+    "DEPRECATED_TEXT_INPUT_BG": [
+      "#1b0122"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER": [
+      "#1b0122"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+      "#1b0122"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+      "#1b0122"
+    ],
+    "DEPRECATED_TEXT_INPUT_PREFIX": [
+      "#1b0122"
+    ],
+    "ELEVATION_HIGH": [
+      "#1b0122"
+    ],
+    "ELEVATION_LOW": [
+      "#1b0122"
+    ],
+    "ELEVATION_MEDIUM": [
+      "#1b0122"
+    ],
+    "ELEVATION_STROKE": [
+      "#1b0122"
+    ],
+    "FOCUS_PRIMARY": [
+      "#1b0122"
+    ],
+    "GUILD_HEADER_TEXT_SHADOW": [
+      "#1b0122"
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#8e1cad"
     ]
   },
   "rawColors": {
@@ -180,16 +234,17 @@
     "RC_PRIMARY_600": "#1ccfed",
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
-   },
-    "background": {
-        "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/715417101971750998/1144137261533888562/5TiwfDL.png",
-        "color": "#1b0329"
-     },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/715417101971750998/1144137261533888562/5TiwfDL.png",
+    "alpha": 0.63,
+    "color": "#1b0329"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "icons": {
       "ic_radio_square_checked_24px": "RC_BRAND_500",
       "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
       "ic_selection_checked_24px": "RC_BRAND_500",
@@ -228,8 +283,8 @@
       "ic_soundboard_muted": "#a370f2",
       "ic_video": "#a370f2",
       "ic_video_disabled": "#a370f2"
-        },
-        "iconpack":"rosiecord-plumpy"
     },
-    "spec": 2
-            }
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2
+}
