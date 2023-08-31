@@ -15,7 +15,7 @@
       "#330240"
     ],
     "BACKGROUND_FLOATING": [
-      "#1b0329e8"
+      "#1b0329e6"
     ],
     "BACKGROUND_MENTIONED": [
       "#890c58b3"
@@ -72,7 +72,7 @@
       "#9744ed"
     ],
     "CHAT_BACKGROUND": [
-      "#000000bc"
+      "#000000e6"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#81b6ef"
@@ -174,7 +174,7 @@
       "#1b0329"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#c40cf7"
+      "#1a99ec"
     ],
     "INTERACTIVE_HOVER": [
       "#061428"
@@ -183,7 +183,7 @@
       "#4ea2b5"
     ],
     "INTERACTIVE_NORMAL": [
-      "#9744ed"
+      "#c72ec9"
     ],
     "LOGO_PRIMARY": [
       "#17e8e5"
