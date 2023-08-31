@@ -15,7 +15,7 @@
       "#330240"
     ],
     "BACKGROUND_FLOATING": [
-      "#1b0329a8"
+      "#1b0329c2"
     ],
     "BACKGROUND_MENTIONED": [
       "#890c58b3"
@@ -63,7 +63,7 @@
       "#1B0122"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
-      "#0a2848"
+      "#72afef"
     ],
     "CHANNELS_DEFAULT": [
       "#17e8e5"
@@ -72,7 +72,7 @@
       "#9744ed"
     ],
     "CHAT_BACKGROUND": [
-      "#00000099"
+      "#000000bc"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#81b6ef"
@@ -183,7 +183,7 @@
       "#4ea2b5"
     ],
     "INTERACTIVE_NORMAL": [
-      "#0ca5f7"
+      "#9744ed"
     ],
     "LOGO_PRIMARY": [
       "#17e8e5"
@@ -213,22 +213,22 @@
       "#fe0096"
     ],
     "STATUS_DANGER_TEXT": [
-      "#83a598"
+      "#d277af"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#689d6a"
+      "#682d68"
     ],
     "STATUS_POSITIVE_TEXT": [
-      "#dcddde"
+      "#eccbed"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#fab387"
+      "#dc58a7"
     ],
     "STATUS_WARNING_TEXT": [
-      "#fb4934"
+      "#d52813"
     ],
     "TEXTBOX_MARKDOWN_SYNTAX": [
-      "#076678"
+      "#ed6dd4"
     ],
     "TEXT_DANGER": [
       "#890c58"
@@ -237,7 +237,7 @@
       "#80e1e9"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#dcddde"
+      "#80e1e9"
     ],
     "TEXT_MUTED": [
       "#05ffcf"
@@ -263,7 +263,7 @@
     "PRIMARY_400": "#791E94",
     "PRIMARY_500": "#b03cae",
     "PRIMARY_560": "#330240",
-    "PRIMARY_600": "#1b0329a8",
+    "PRIMARY_600": "#1b0329",
     "PRIMARY_630": "#1b0329",
     "PRIMARY_660": "#1b0329",
     "PRIMARY_700": "#1b0329",
