@@ -14,9 +14,6 @@
     "ACTIVITY_CARD_BACKGROUND": [
       "#330240"
     ],
-    "BACKGROUND_FLOATING": [
-      "#1b0329e6"
-    ],
     "BACKGROUND_MENTIONED": [
       "#890c58b3"
     ],
@@ -269,7 +266,7 @@
     "PRIMARY_700": "#1b0329",
     "PRIMARY_800": "#1b0122",
     "PRIMARY_900": "#573094",
-    "BLACK_500": "#000000",
+    "BLACK_500": "#000000e6",
     "BLACK_530": "#000000",
     "BLACK_560": "#000000",
     "BLACK_600": "#000000",
