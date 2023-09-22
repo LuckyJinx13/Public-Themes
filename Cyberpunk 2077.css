@@ -38,8 +38,8 @@
   --dark-neon-green-color: rgb(var(--dark-green));
 
   /* Variables for custiomization tool */
-  --avatar-circle: 0;
-  --avatar-rounded: 5px;
+  --avatar-circle: 50%;
+  --avatar-rounded: 50%;
   --avatar-border: 1px solid var(--neon-red-color);
 
   /* Discord variables */
@@ -66,8 +66,8 @@
     CUSTOM FONT FROM GOOGLE FONTS
     ===============
  */
-::-webkit-input-placeholder, body, button, input, select, textarea {
-    font-family: var(--font-primary);
+::-<style>   @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:wght@500&display=swap'); </style>{
+    --font-family: 'Ysabeau Infant';);
 }
 
 /* ===============
