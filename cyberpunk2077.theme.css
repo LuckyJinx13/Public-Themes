@@ -8,13 +8,13 @@
  * @donate https://www.paypal.com/donate/?hosted_button_id=PGVKB863SXYUQ
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:wght@500&display=swap'');
 @import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
 
 :root {
     --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --font-primary: 'Rajdhani'; /* Font */
+    --font-primary: 'Ysabeau Infant'; /* Font */
     --primary-text-color: lightgray; /* Font color */
 
     --primary: 23, 13, 22;  /* Background color mainly used for popups */
