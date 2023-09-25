@@ -72,10 +72,10 @@
       "#000000e6"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#81b6ef"
+      "#d11b9c"
     ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#1b0329"
+    "CHAT_BORDER": [
+      "#682d68"
     ],
     "DEPRECATED_CARD_BG": [
       "#1b0122"
@@ -261,7 +261,7 @@
     "PRIMARY_400": "#791E94",
     "PRIMARY_500": "#b03cae",
     "PRIMARY_560": "#330240",
-    "PRIMARY_600": "#330240",
+    "PRIMARY_600": "#1b0329",
     "PRIMARY_630": "#1b0329",
     "PRIMARY_660": "#1b0329",
     "PRIMARY_700": "#1b0329",
