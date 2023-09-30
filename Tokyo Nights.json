@@ -13,7 +13,6 @@
       "#1b0329",
       "#1b0329",
       "#1b0329"
-      
     ],
     "ACTIVITY_CARD_BACKGROUND": [
       "#330240",
@@ -346,10 +345,10 @@
       "#061428"
     ],
     "INTERACTIVE_MUTED": [
-      "#00b1dd",
-      "#00b1dd",
-      "#00b1dd",
-      "#00b1dd"
+      "#17e8e5",
+      "#17e8e5",
+      "#17e8e5",
+      "#17e8e5"
     ],
     "INTERACTIVE_NORMAL": [
       "#00b1dd",
@@ -375,7 +374,7 @@
       "#d11b9c",
       "#d11b9c"
     ],
-     "REDESIGN_ACTIVITY_CARD_BORDER": [
+    "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#b846e8",
       "#b846e8",
       "#b846e8",
