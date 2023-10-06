@@ -147,7 +147,7 @@
       "#d11b9c"
     ],
     "CHAT_BORDER": [
-      "#682d68",
+      "#d11b9c",
       "#d11b9c",
       "#d11b9c",
       "#d11b9c"
@@ -385,6 +385,18 @@
       "#b846e8",
       "#b846e8",
       "#b846e8"
+    ],
+    "REDESIGN_BUTTON_OVERLAY_ALPHA_PRESSED_BACKGROUND": [
+      "#9c1067",
+      "#9c1067",
+      "#9c1067",
+      "#9c1067"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": [
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c"
     ],
     "REDESIGN_CHANNEL_MESSAGE_PREVIEW_TEXT": [
       "#dc58a7",
