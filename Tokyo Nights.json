@@ -386,7 +386,19 @@
       "#b846e8",
       "#b846e8"
     ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#9c1067",
+      "#9c1067",
+      "#9c1067",
+      "#9c1067"
+    ],
     "REDESIGN_BUTTON_OVERLAY_ALPHA_PRESSED_BACKGROUND": [
+      "#9c1067",
+      "#9c1067",
+      "#9c1067",
+      "#9c1067"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
       "#9c1067",
       "#9c1067",
       "#9c1067",
@@ -411,6 +423,12 @@
       "#00b1dd"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#330240",
+      "#330240",
+      "#330240",
+      "#330240"
+    ],
+    "RREDESIGN_ONLY_BACKGROUND_ACTIVE": [
       "#330240",
       "#330240",
       "#330240",
