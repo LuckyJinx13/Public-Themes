@@ -386,6 +386,12 @@
       "#b846e8",
       "#b846e8"
     ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#f2e9e1", "#f2e9e1"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#faf4ed", "#faf4ed"
+      ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#9c1067",
       "#9c1067",
