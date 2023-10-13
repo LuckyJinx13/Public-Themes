@@ -116,7 +116,7 @@
       "#1B0122",
       "#1B0122"
     ],
-    "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+ "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#72afef",
       "#72afef",
       "#72afef",
@@ -261,7 +261,10 @@
       "#a370f2"
     ],
     "HOME_BACKGROUND": [
-      "#330240", "#330240"
+      "#330240",
+      "#330240",
+      "#330240",
+      "#330240"
       ],
     "INFO_DANGER_BACKGROUND": [
       "#1b0329",
@@ -384,7 +387,10 @@
       "#d11b9c"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#fffaf3", "#fffaf3"
+      "#fffaf3",
+      "#fffaf3",
+      "#fffaf3",
+      "#fffaf3"
       ],
     "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#b846e8",
@@ -393,10 +399,16 @@
       "#b846e8"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#330240", "#330240"
+      "#330240",
+      "#330240",
+      "#330240",
+      "#330240"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#faf4ed", "#faf4ed"
+      "#faf4ed",
+      "#faf4ed",
+      "#faf4ed",
+      "#faf4ed"
       ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#9c1067",
@@ -568,7 +580,6 @@
     ]
   },
   "rawColors": {
-    "BG_GRADIENT_RETRO_STORM_2": "#000000",
     "PRIMARY_100": "#d11b9c",
     "PRIMARY_130": "#b846e8",
     "PRIMARY_200": "#f016f7",
