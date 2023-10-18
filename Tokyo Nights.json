@@ -116,7 +116,7 @@
       "#1B0122",
       "#1B0122"
     ],
- "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+    "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#72afef",
       "#72afef",
       "#72afef",
@@ -265,7 +265,7 @@
       "#330240",
       "#330240",
       "#330240"
-      ],
+    ],
     "INFO_DANGER_BACKGROUND": [
       "#1b0329",
       "#1b0329",
@@ -391,7 +391,7 @@
       "#330240",
       "#330240",
       "#330240"
-      ],
+    ],
     "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#b846e8",
       "#b846e8",
@@ -403,13 +403,13 @@
       "#1b0329",
       "#1b0329",
       "#1b0329"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#330240",
-      "#330240",
-      "#330240",
-      "#330240"
-      ],
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#1b0329",
+      "#1b0329",
+      "#1b0329",
+      "#1b0329"
+    ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#9c1067",
       "#9c1067",
@@ -599,16 +599,16 @@
     "BRAND_830": "#a370f2",
     "BRAND_860": "#a370f2",
     "BRAND_900": "#a370f2",
-    "PLUM_10": "#00b1dd",
-    "PLUM_11": "#00b1dd",
-    "PLUM_12": "#00b1dd",
-    "PLUM_13": "#00b1dd",
-    "PLUM_14": "#00b1dd",
-    "PLUM_15": "#00b1dd",
-    "PLUM_16": "#00b1dd",
-    "PLUM_17": "#00b1dd",
-    "PLUM_18": "#00b1dd",
-    "PLUM_19": "#00b1dd",
+    "PLUM_10": "#1b0329",
+    "PLUM_11": "#1b0329",
+    "PLUM_12": "#1b0329",
+    "PLUM_13": "#1b0329",
+    "PLUM_14": "#1b0329",
+    "PLUM_15": "#1b0329",
+    "PLUM_16": "#1b0329",
+    "PLUM_17": "#1b0329",
+    "PLUM_18": "#1b0329",
+    "PLUM_19": "#1b0329",
     "PLUM_20": "#890c58",
     "PLUM_21": "#890c58",
     "PLUM_22": "#890c58",
@@ -629,14 +629,15 @@
     "PRIMARY_560": "#1b0329",
     "PRIMARY_600": "#1b0329",
     "PRIMARY_630": "#1b0329",
-    "PRIMARY_645": "#1b0329",
+    "PRIMARY_645": "#330240",
     "PRIMARY_660": "#1b0329",
     "PRIMARY_700": "#1b0329",
     "PRIMARY_800": "#330240",
-    "BLACK_345": "#00b1dd",
-    "BLACK_360": "#00b1dd",
-    "BLACK_400": "#00b1dd",
-    "BLACK_430": "#00b1dd",
+    "PRIMARY_900": "#573094",
+    "BLACK_345": "#330240",
+    "BLACK_360": "#330240",
+    "BLACK_400": "#330240",
+    "BLACK_430": "#330240",
     "BLACK_500": "#000000e6",
     "BLACK_530": "#000000",
     "BLACK_560": "#000000",
