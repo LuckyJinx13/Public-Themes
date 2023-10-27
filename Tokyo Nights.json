@@ -116,6 +116,24 @@
       "#1B0122",
       "#1B0122"
     ],
+    "BORDER_FAINT": [
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c"
+    ],
+    "BORDER_STRONG": [
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c"
+    ],
+    "BORDER_SUBTLE": [
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c",
+      "#d11b9c"
+    ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#72afef",
       "#72afef",
