@@ -584,6 +584,12 @@
       "#ffffff",
       "#ffffff"
     ],
+    "TEXT_PRIMARY": [
+      "#cdd6f4"
+      ],
+    "TEXT_SECONDARY": [
+      "#a6adc8"
+      ],
     "TEXT_POSITIVE": [
       "#00b1dd",
       "#00b1dd",
