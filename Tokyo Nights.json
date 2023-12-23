@@ -586,10 +586,10 @@
     ],
     "TEXT_PRIMARY": [
       "#cdd6f4"
-      ],
+    ],
     "TEXT_SECONDARY": [
-      "#a6adc8"
-      ],
+      "#3ad3e0"
+    ],
     "TEXT_POSITIVE": [
       "#00b1dd",
       "#00b1dd",
@@ -626,7 +626,7 @@
     "PLUM_1": "#d11b9c",
     "PLUM_3": "#d11b9c",
     "PLUM_4": "#89b4fa",
-    "PLUM_6": "#cba6f7",
+    "PLUM_6": "#00b1dd",
     "PLUM_9": "#d11b9c",
     "PLUM_10": "#b03cae",
     "PLUM_11": "#b03cae",
