@@ -390,12 +390,12 @@
       "#05ffcf"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
-      "#ffffff"
+      "#fa8ce4",
+      "#fa8ce4"
     ],
     "TEXT_PRIMARY": [
-      "#ffffff",
-      "#ffffff"
+      "#9245a3",
+      "#9245a3"
     ],
     "TEXT_SECONDARY": [
       "#3ad3e0",
@@ -445,7 +445,7 @@
     "PLUM_15": "#b03cae",
     "PLUM_16": "#890c58",
     "PLUM_17": "#1b0329",
-    "PLUM_18": "#1b0329",
+    "PLUM_18": "#1b0329db",
     "PLUM_19": "#1b0329",
     "PLUM_20": "#330240",
     "PLUM_21": "#330240",
