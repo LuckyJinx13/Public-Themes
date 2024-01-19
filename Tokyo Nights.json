@@ -394,8 +394,8 @@
       "#ffffff"
     ],
     "TEXT_PRIMARY": [
-      "#cdd6f4",
-      "#cdd6f4"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_SECONDARY": [
       "#3ad3e0",
@@ -435,7 +435,7 @@
     "PLUM_1": "#d11b9c",
     "PLUM_3": "#d11b9c",
     "PLUM_4": "#89b4fa",
-    "PLUM_6": "#ffffff",
+    "PLUM_6": "#7c0882",
     "PLUM_9": "#d11b9c",
     "PLUM_10": "#b03cae",
     "PLUM_11": "#b03cae",
