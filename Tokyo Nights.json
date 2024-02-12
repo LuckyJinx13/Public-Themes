@@ -536,26 +536,6 @@
     "url": "https://media.discordapp.net/attachments/1131055142314180641/1147065705133518919/zJo0vqJ8.png",
     "alpha": 0.85
   },
-   "fonts":{
-  "ABCGintoNord-ExtraBold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-Bold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-BoldItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-ExtraBold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-ExtraBoldItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-Medium": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-MediumItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-Normal": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-NormalItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "ggsans-SemiboldItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "NotoSans-Bold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "NotoSans-ExtraBold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "NotoSans-Medium": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "NotoSans-Normal": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "NotoSans-NormalItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "NotoSans-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf",
-  "SourceCodePro-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Nunito-Regular.ttf"
- },
   "plus": {
     "version": 0,
     "customOverlays": true,
