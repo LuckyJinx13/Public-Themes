@@ -112,6 +112,14 @@
       "#330240",
       "#330240"
     ],
+    "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+      "#fe0096",
+      "#fe0096"
+    ],
+    "CHAT_SWIPE_TO_REPLY_GRADIENT_BACKGROUND": [
+      "#fe0096",
+      "#fe0096"
+    ],
     "CHAT_BORDER": [
       "#d11b9c",
       "#d11b9c"
@@ -172,6 +180,18 @@
       "#1b0122",
       "#1b0122"
     ],
+    "EMBED_BACKGROUND": [
+      "#1b0122",
+      "#1b0122"
+    ],
+    "EMBED_BACKGROUND_ALTERNATE": [
+      "#330240",
+      "#330240"
+    ],
+    "EXPRESSION_PICKER_BG": [
+      "#1b0122",
+      "#1b0122"
+    ],
     "FOCUS_PRIMARY": [
       "#1b0122",
       "#1b0122"
@@ -191,6 +211,10 @@
     "HOME_BACKGROUND": [
       "#330240",
       "#330240"
+    ],
+    "INFO_BOX_BACKGROUND": [
+      "#1b0329",
+      "#1b0329"
     ],
     "INFO_DANGER_BACKGROUND": [
       "#1b0329",
