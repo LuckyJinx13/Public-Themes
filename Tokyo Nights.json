@@ -29,12 +29,12 @@
       "#890c58b3"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1b0122",
-      "#1b0122"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
       "#330240",
       "#330240"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1b0122",
+      "#1b0122"
     ],
     "BACKGROUND_ACCENT": [
       "#710155",
@@ -297,8 +297,8 @@
       "#d11b9c"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#1b0329",
-      "#1b0329"
+      "#330240",
+      "#330240"
     ],
     "REDESIGN_ACTIVITY_CARD_BORDER": [
       "#b846e8",
