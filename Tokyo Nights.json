@@ -80,6 +80,12 @@
       "#1B0122",
       "#1B0122"
     ],
+    "BG_BASE_PRIMARY": [
+      "#44429e"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#44429e  "
+    ],  
     "BORDER_FAINT": [
       "#d11b9c",
       "#d11b9c"
