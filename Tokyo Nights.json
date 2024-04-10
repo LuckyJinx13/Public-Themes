@@ -8,6 +8,9 @@
     }
   ],
   "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#1b0329"
+      ],
     "KEYBOARD": [
       "#1b0329",
       "#1b0329"
@@ -117,8 +120,12 @@
       "#000000e6"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#330240",
-      "#330240"
+      "#1b0122",
+      "#1b0122"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1b0122",
+      "#1b0122"
     ],
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
       "#fe0096",
