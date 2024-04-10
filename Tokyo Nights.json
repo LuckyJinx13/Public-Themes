@@ -328,8 +328,8 @@
       "#330240"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#fbdf6a",
-      "#fbdf6a"
+      "#00b1dd",
+      "#00b1dd"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#9c1067",
@@ -356,8 +356,8 @@
       "#00b1dd"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#fe0096",
-      "#fe0096"
+      "#1b0329",
+      "#1b0329"
     ],
     "RREDESIGN_ONLY_BACKGROUND_ACTIVE": [
       "#330240",
