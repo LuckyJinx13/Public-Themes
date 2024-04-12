@@ -90,7 +90,16 @@
     "BG_BASE_SECONDARY": [
       "#330240",
       "#330240"
-    ],  
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#0F0B0F"
+    ],
+    "HOME_BACKGROUND": [
+      "#221b1e"
+    ],
     "BORDER_FAINT": [
       "#d11b9c",
       "#d11b9c"
