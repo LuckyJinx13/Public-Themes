@@ -97,9 +97,6 @@
     "BG_BASE_TERTIARY": [
       "#0F0B0F"
     ],
-    "HOME_BACKGROUND": [
-      "#221b1e"
-    ],
     "BORDER_FAINT": [
       "#d11b9c",
       "#d11b9c"
@@ -355,10 +352,6 @@
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
       "#9c1067",
       "#9c1067"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#78605e",
-      "#78605e"
     ],
     "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": [
       "#d11b9c",
