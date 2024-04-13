@@ -131,8 +131,8 @@
       "#72afef"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#72afef",
-      "#72afef"
+      "#d11b9c",
+      "#d11b9c"
     ],
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
       "#fe0096",
@@ -141,6 +141,14 @@
     "CHAT_SWIPE_TO_REPLY_GRADIENT_BACKGROUND": [
       "#fe0096",
       "#fe0096"
+    ],
+    "DIVIDER_STRONG": [
+      "#fe0096",
+      "#fe0096"
+    ],
+    "DIVIDER_SUBTLE": [
+      "#d11b9c",
+      "#d11b9c"
     ],
     "CHAT_BORDER": [
       "#d11b9c",
@@ -430,6 +438,10 @@
     "THREAD_CHANNEL_SPINE": [
       "#ed6dd4",
       "#ed6dd4"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#1b0329",
+      "#1b0329"
     ],
     "YOU_BAR_BG":[
       "#1b0329",
