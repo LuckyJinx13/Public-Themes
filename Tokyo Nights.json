@@ -130,6 +130,10 @@
       "#72afef",
       "#72afef"
     ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#72afef",
+      "#72afef"
+    ],
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
       "#fe0096",
       "#fe0096"
@@ -418,11 +422,14 @@
     "TEXT_POSITIVE": [
       "#00b1dd",
       "#00b1dd"
-    
     ],
     "TEXT_WARNING": [
       "#890c58",
       "#890c58"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#ed6dd4",
+      "#ed6dd4"
     ],
     "YOU_BAR_BG":[
       "#1b0329",
