@@ -95,7 +95,8 @@
       "#3302409E"
     ],
     "BG_BASE_TERTIARY": [
-      "#1B0122"
+      "#fe0096",
+      "#fe0096"
     ],
     "BORDER_FAINT": [
       "#d11b9c",
@@ -462,7 +463,10 @@
     "TEXT_WARNING": [
       "#890c58",
       "#890c58"
-      
+    ],
+    "YOU_BAR_BG":[
+      "#1b0329",
+      "#1b0329"
     ]
   },
   "rawColors": {
