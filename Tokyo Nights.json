@@ -92,10 +92,10 @@
       "#330240"
     ],
     "BG_BACKDROP": [
-      "#330240"
+      "#3302409E"
     ],
     "BG_BASE_TERTIARY": [
-      "#0F0B0F"
+      "#1B0122"
     ],
     "BORDER_FAINT": [
       "#d11b9c",
@@ -330,8 +330,8 @@
       "#1b0329"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#330240",
-      "#330240"
+      "#b846e8",
+      "#b846e8"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#1b1616",
@@ -506,7 +506,7 @@
     "PLUM_17": "#1b0329",
     "PLUM_18": "#1b0122",
     "PLUM_19": "#1b0329",
-    "PLUM_20": "#330240",
+    "PLUM_20": "#1b0329",
     "PLUM_21": "#330240",
     "PLUM_22": "#d11b9c",
     "PLUM_23": "#1B0329",
