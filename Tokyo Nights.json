@@ -114,6 +114,12 @@
       "#72afef",
       "#72afef"
     ],
+    "CARD_SECONDARY_BG": [
+      "#3D3B8F"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#3D3B8F"
+      ],
     "CHANNELS_DEFAULT": [
       "#17e8e5",
       "#17e8e5"
