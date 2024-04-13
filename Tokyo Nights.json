@@ -125,13 +125,9 @@
       "#000000e6",
       "#000000e6"
     ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+    "CHANNELTEXTAREA_BACKGROUND": [
       "#370C42",
       "#370C42"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#1b0122",
-      "#1b0122"
     ],
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
       "#fe0096",
@@ -372,6 +368,10 @@
     "RREDESIGN_ONLY_BACKGROUND_ACTIVE": [
       "#330240",
       "#330240"
+    ],
+    "REDESIGN_IMAGE_BUTTON_PRESSED_BACKGROUND": [
+      "#00b1dd",
+      "#00b1dd"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#c72ec9",
