@@ -84,12 +84,12 @@
       "#1B0122"
     ],
     "BG_BASE_PRIMARY": [
-      "#08060",
-      "#08060"
-    ],
-    "BG_BASE_SECONDARY": [
       "#330240",
       "#330240"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#08060E",
+      "#08060E"
     ],
     "BG_BACKDROP": [
       "#3302409E"
