@@ -305,8 +305,8 @@
       "#1b0329"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#330240",
-      "#330240"
+      "#28112E",
+      "#28112E"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#9c1067",
@@ -577,6 +577,7 @@
     "GREEN_260": "#f016f7",
     "GREEN_300": "#f016f7",
     "GREEN_330": "#f016f7",
+    "GREEN_360": "#f016f7",
     "GREEN_400": "#f016f7",
     "GREEN_430": "#f016f7",
     "GREEN_460": "#f016f7",
@@ -593,7 +594,6 @@
     "GREEN_830": "#1b0329",
     "GREEN_860": "#1b0329",
     "GREEN_900": "#1b0329",
-    "GREEN_360": "#b03cae",
     "RED_400": "#890c58",
     "RED_430": "#890c58",
     "RED_460": "#890c58",
