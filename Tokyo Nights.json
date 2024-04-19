@@ -114,6 +114,18 @@
       "#72afef",
       "#72afef"
     ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER": [
+      "#d11b9c",
+      "#d11b9c"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": [
+      "#9744ed",
+      "#9744ed"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER_HOVER": [
+      "#00b1dd",
+      "#00b1dd"
+    ],
     "CARD_SECONDARY_BG": [
       "#1b0122"
       ],
@@ -301,8 +313,8 @@
       "#b846e8"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#b846e8",
-      "#b846e8"
+      "#28112E",
+      "#28112E"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#28112E",
