@@ -1,6 +1,6 @@
 {
   "name": "Kuromi Nights",
-  "description": "Colorful Vaporwave Inspired Theme",
+  "description": "Colorful Vaporwave Inspired Theme. Now Featuring Kuromi",
   "authors": [
     {
       "name": "Lucky Jinx",
@@ -645,7 +645,7 @@
   "SourceCodePro-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-SemiBold.ttf"
    },
   "background": {
-    "url": "https://files.catbox.moe/p7nsyl.png",
+    "url": "https://files.catbox.moe/d35j9d.png",
     "alpha": 0.85
   },
   "plus": {
