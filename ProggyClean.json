@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "ProggyClean",
+    "previewText": "A Nerdy Font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-Bold": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-BoldItalic": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-ExtraBold": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-ExtraBoldItalic": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-Medium": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-MediumItalic": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-Normal": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-NormalItalic": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-Semibold": "https://files.catbox.moe/42awt7.ttf",
+        "ggsans-SemiboldItalic": "https://files.catbox.moe/42awt7.ttf",
+        "NotoSans-Bold": "https://files.catbox.moe/42awt7.ttf",
+        "NotoSans-ExtraBold": "https://files.catbox.moe/42awt7.ttf",
+        "NotoSans-Medium": "https://files.catbox.moe/42awt7.ttf",
+        "NotoSans-Normal": "https://files.catbox.moe/42awt7.ttf",
+        "NotoSans-NormalItalic": "https://files.catbox.moe/42awt7.ttf",
+        "NotoSans-Semibold": "https://files.catbox.moe/42awt7.ttf",
+        "SourceCodePro-Semibold": "https://files.catbox.moe/42awt7.ttf"
+    }
+}  
