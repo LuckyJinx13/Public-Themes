@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Nunito",
+    "previewText": "A Google Font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-Bold": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-BoldItalic": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-ExtraBold": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-ExtraBoldItalic": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-Medium": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-MediumItalic": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-Normal": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-NormalItalic": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-Semibold": "https://files.catbox.moe/ct7n9z.ttf",
+        "ggsans-SemiboldItalic": "https://files.catbox.moe/ct7n9z.ttf",
+        "NotoSans-Bold": "https://files.catbox.moe/ct7n9z.ttf",
+        "NotoSans-ExtraBold": "https://files.catbox.moe/ct7n9z.ttf",
+        "NotoSans-Medium": "https://files.catbox.moe/ct7n9z.ttf",
+        "NotoSans-Normal": "https://files.catbox.moe/ct7n9z.ttf",
+        "NotoSans-NormalItalic": "https://files.catbox.moe/ct7n9z.ttf",
+        "NotoSans-Semibold": "https://files.catbox.moe/ct7n9z.ttf",
+        "SourceCodePro-Semibold": "https://files.catbox.moe/ct7n9z.ttf"
+    }
+}    
