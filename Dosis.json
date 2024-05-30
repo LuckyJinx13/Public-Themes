@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Dosis",
+    "previewText": "Does this look good?",
+    "main": {
+       "ABCGintoNord-ExtraBold": "https://files.catbox.moe/mz7xyf.ttf",
+  "ggsans-Bold": "https://files.catbox.moe/mevm9b.ttf",
+  "ggsans-BoldItalic": "https://files.catbox.moe/mevm9b.ttf",
+  "ggsans-ExtraBold": "https://files.catbox.moe/mz7xyf.ttf",
+  "ggsans-ExtraBoldItalic": "https://files.catbox.moe/b79h98.ttf",
+  "ggsans-Medium": "https://files.catbox.moe/dwotpp.ttf",
+  "ggsans-MediumItalic": "https://files.catbox.moe/dwotpp.ttf",
+  "ggsans-Normal": "https://files.catbox.moe/z7l9yc.ttf",
+  "ggsans-NormalItalic": "https://files.catbox.moe/16r3mz.ttf",
+  "ggsans-Semibold": "https://files.catbox.moe/zjlp9n.ttf",
+  "ggsans-SemiboldItalic": "https://files.catbox.moe/zjlp9n.ttf",
+  "NotoSans-Bold": "https://files.catbox.moe/mevm9b.ttf",
+  "NotoSans-ExtraBold": "https://files.catbox.moe/mevm9b.ttf",
+  "NotoSans-Medium": "https://files.catbox.moe/dwotpp.ttf",
+  "NotoSans-Normal": "https://files.catbox.moe/z7l9yc.ttf",
+  "NotoSans-NormalItalic": "https://files.catbox.moe/16r3mz.ttf",
+  "NotoSans-Semibold": "https://files.catbox.moe/zjlp9n.ttf",
+  "SourceCodePro-Semibold": "https://files.catbox.moe/zjlp9n.ttf"
+    }
+}          
