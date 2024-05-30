@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Comic Neue",
+    "previewText": Another very Pretty Font I like",
+    "main": {
+       "ABCGintoNord-ExtraBold": "https://files.catbox.moe/d8ll0g.ttf",
+  "ggsans-Bold": "https://files.catbox.moe/d8ll0g.ttf",
+  "ggsans-BoldItalic": "https://files.catbox.moe/b79h98.ttf",
+  "ggsans-ExtraBold": "https://files.catbox.moe/d8ll0g.ttf",
+  "ggsans-ExtraBoldItalic": "https://files.catbox.moe/b79h98.ttf",
+  "ggsans-Medium": "https://files.catbox.moe/tp2br9.ttf",
+  "ggsans-MediumItalic": "https://files.catbox.moe/16r3mz.ttf",
+  "ggsans-Normal": "https://files.catbox.moe/tp2br9.ttf",
+  "ggsans-NormalItalic": "https://files.catbox.moe/16r3mz.ttf",
+  "ggsans-Semibold": "https://files.catbox.moe/tp2br9.ttf",
+  "ggsans-SemiboldItalic": "https://files.catbox.moe/b79h98.ttf",
+  "NotoSans-Bold": "https://files.catbox.moe/d8ll0g.ttf",
+  "NotoSans-ExtraBold": "https://files.catbox.moe/d8ll0g.ttf",
+  "NotoSans-Medium": "https://files.catbox.moe/tp2br9.ttf",
+  "NotoSans-Normal": "https://files.catbox.moe/tp2br9.ttf",
+  "NotoSans-NormalItalic": "https://files.catbox.moe/16r3mz.ttf",
+  "NotoSans-Semibold": "https://files.catbox.moe/tp2br9.ttf",
+  "SourceCodePro-Semibold": "https://files.catbox.moe/tp2br9.ttf"
+    }
+} 
