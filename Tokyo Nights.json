@@ -1,6 +1,18 @@
+⭒❃.✮:▹𝔾𝕝𝕚𝕥𝕔𝕙◃:✮.❃⭒
+
+Rk:*Kaz seemed to fuck off outta the encounter completely. Whatever, not like Noya was gonna try to attack her again and that's all that mattered. She'd CashApp the surly guy some money for his time and consider them squaresies. At least she knew she could rely on him for help should she need it later on down the line. The death grip of the Fox was strong, not overly strong, but it was strong enough. Now that her and Noya were inside the shop Reiki was casually looking around at the various items all adorned with various Sanrio characters or as some might say 'Them Hello Kitty Critters'.*
+
+`"What exactly should I be worried about? His build may appear to be similar to mine, but I can guarantee in a one-on-one: I'd win."`
+
+**"You ever think people can be more than what their outward appearances cause you to perceive them to be? For all you know he could be packing some power behind that unassuming face of his. He's had his fair share of scuffles back at Tsuuki from what I've heard, might be worth me asking around on those to see who they were actually against."**
+
+`"Is this shit really all that great?"`
+
+**"This stuff is nostalgic for me. My step dad used to bring me here after particularly bad training sessions with my mother, and by training sessions I mean her beating my ass like an 'Elden Ring' boss making sure I learn shit proper and kicking my ass if I didn't, healing me back up and repeating the process until she was out of mana."** 
+
 {
-  "name": "Tokyo Nights",
-  "description": "Colorful Vaporwave Inspired Theme",
+  "name": "Kuromi Nights",
+  "description": "Colorful Vaporwave Inspired Theme. Now Featuring Kuromi",
   "authors": [
     {
       "name": "Lucky Jinx",
@@ -129,10 +141,6 @@
     "BUTTON_OUTLINE_PRIMARY_BORDER_HOVER": [
       "#00b1dd",
       "#00b1dd"
-    ],
-     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#330240",
-      "#330240"
     ],
     "CARD_SECONDARY_BG": [
       "#1b0122"
@@ -446,8 +454,8 @@
       "#ff05ea"
     ],
     "TEXT_NORMAL": [
-      "#b84ddd",
-      "#b84ddd"
+      "#fa8ce4",
+      "#fa8ce4"
     ],
     "TEXT_PRIMARY": [
       "#fa8ce4",
@@ -628,27 +636,27 @@
     "RC_TEAL_345": "#7e64fb",
     "RC_YELLOW_300": "#ffd401"
   },
-   "fonts":{
-  "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-  "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-  "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-  "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-  "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-  "ggsans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-  "ggsans-MediumItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
-  "ggsans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-  "ggsans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-  "ggsans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-  "ggsans-SemiboldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
-  "NotoSans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-  "NotoSans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-  "NotoSans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-  "NotoSans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-  "NotoSans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-  "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-  "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+      "fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Bold.ttf",
+  "ggsans-Bold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Bold.ttf",
+  "ggsans-BoldItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-BoldItalic.ttf",
+  "ggsans-ExtraBold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Bold.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-BoldItalic.ttf",
+  "ggsans-Medium": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Medium.ttf",
+  "ggsans-MediumItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-MediumItalic.ttf",
+  "ggsans-Normal": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Regular.ttf",
+  "ggsans-NormalItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Italic.ttf",
+  "ggsans-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-SemiBold.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-SemiBoldItalic.ttf",
+  "NotoSans-Bold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Bold.ttf",
+  "NotoSans-ExtraBold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Bold.ttf",
+  "NotoSans-Medium": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Medium.ttf",
+  "NotoSans-Normal": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Regular.ttf",
+  "NotoSans-NormalItalic": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-Italic.ttf",
+  "NotoSans-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-SemiBold.ttf",
+  "SourceCodePro-Semibold": "https://github.com/LuckyJinx13/Public-Themes/raw/main/Kodchasan-SemiBold.ttf"
    },
-  "background": {
+"background": {
     "url": "https://raw.githubusercontent.com/LuckyJinx13/Public-Themes/main/zJo0vqJ8.png",
     "alpha": 0.85
   },
@@ -666,7 +674,6 @@
       "ArrowAngleLeftUpIcon": "#C235F8",
       "arrow-down": "#fa02e1",
       "ArrowLargeLeftIcon": "#81f7b0",
-      "ic_arrow_back_24px": "#C235F8",
       "arrow-sm-down": "#ff00d9",
       "AtIcon": "#890c58",
       "Audio": "#890c58",
@@ -867,3 +874,5 @@
   
   "spec": 2
 }
+
+ 
