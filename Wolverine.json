@@ -243,9 +243,8 @@
     },
   "background": {
         "alpha": 5,
-        "url": "https://files.catbox.moe/z46k1h.png"
+        "url": "https://raw.githubusercontent.com/LuckyJinx13/Public-Themes/main/wolvie.png"
     },
-
     "plus": {
        "version": "0",
        "iconpack": "MaterialTwoTone",
