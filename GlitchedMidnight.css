@@ -7,7 +7,7 @@
     --panel-backdrop-filter: none;
 }
 
-body {
+visual-refresh {
     container-name: body;
 
     /* font, change to '' for default discord font */
