@@ -18,7 +18,7 @@ body {
     --divider-thickness: 4px; /* thickness of unread messages divider and highlighted message borders */
 }
 
-.visual-refresh {
+.body {
     /* panel separation */
     .guilds_c48ade /* server list */, 
     .sidebarList_c48ade /* channel list (includes dm list) */,
